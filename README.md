@@ -3,6 +3,8 @@
 **Chaewon Yoon** · University of Wisconsin–Madison  
 **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2027), Algorithms Track · Accepted**
 
+[Paper](Yoon_WACV2027_Operator_Conditioned_Mixed_Precision_Author_Manuscript.pdf) · [Supplement](Yoon_WACV2027_Operator_Conditioned_Mixed_Precision_Supplement.pdf)
+
 ## Overview
 
 A change in sensing geometry can alter which stages of an inverse-vision reconstruction model are most sensitive to reduced numerical precision, even when reconstruction difficulty is controlled.
